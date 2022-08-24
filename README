@@ -1,0 +1,8 @@
+#Butilca Rares
+
+Here are some methods of cumputing PPT(Primitive Pythagorean Triples) - link below:
+https://en.wikipedia.org/wiki/Tree_of_primitive_Pythagorean_triples
+
+With the aid of these triples a simple cryptosystem has been created.
+
+Note that cryptosystem.rkt requires ppt2.rkt.
